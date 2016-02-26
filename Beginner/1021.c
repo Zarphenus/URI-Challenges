@@ -1,3 +1,12 @@
+/*
+ * URI Online Judge - https://www.urionlinejudge.com.br
+ * Beginner
+ * Problem 1021
+ *
+ * Author: Gabriel Oliveira dos Santos
+ * 2016
+ */
+
 #include <stdio.h>
 
 #define HUNDRED 100.00f
