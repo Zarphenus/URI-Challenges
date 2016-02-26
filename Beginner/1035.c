@@ -1,7 +1,7 @@
 /*
  * URI Online Judge - https://www.urionlinejudge.com.br
  * Beginner
- * Problem 1021
+ * Problem 1035
  *
  * Author: Gabriel Oliveira dos Santos
  * 2016
