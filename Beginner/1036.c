@@ -11,24 +11,24 @@
 #include <math.h>
 
 int main() {
-	float a, b, c, delta, root1, root2;
+   float a, b, c, delta, root1, root2;
 
-	scanf("%f %f %f", &a, &b, &c);
+   scanf("%f %f %f", &a, &b, &c);
 
-	if(a == 0.0f)
-		printf("Impossivel calcular\n");
-	else {
-		delta = pow(b, 2) - (4 * a * c);
-		if(delta < 0.0f)
-			printf("Impossivel calcular\n");
-		else {
-			root1 = ((-b) + sqrt(delta))  / (2 * a);
-			root2 = ((-b) - sqrt(delta))  / (2 * a);
+   if(a == 0.0f)
+      printf("Impossivel calcular\n");
+   else {
+      delta = pow(b, 2) - (4 * a * c);
+      if(delta < 0.0f)
+         printf("Impossivel calcular\n");
+      else {
+         root1 = ((-b) + sqrt(delta))  / (2 * a);
+         root2 = ((-b) - sqrt(delta))  / (2 * a);
 
-			printf("R1 = %.5f\n", root1);
-			printf("R2 = %.5f\n", root2);
-		}
-	}
+         printf("R1 = %.5f\n", root1);
+         printf("R2 = %.5f\n", root2);
+      }
+   }
 
-	return 0;
+   return 0;
 }
