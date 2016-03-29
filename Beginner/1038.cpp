@@ -1,3 +1,12 @@
+/*
+ * URI Online Judge - https://www.urionlinejudge.com.br
+ * Beginner
+ * Problem 1038
+ *
+ * Author: Gabriel Oliveira dos Santos
+ * 2016
+ */
+
 #include <iostream>
 #include <iomanip>
 
