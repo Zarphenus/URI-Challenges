@@ -1,3 +1,12 @@
+/*
+ * URI Online Judge - https://www.urionlinejudge.com.br
+ * Ad-hoc
+ * Problem 1026
+ *
+ * Author: Gabriel Oliveira dos Santos
+ * 2016
+ */
+
 #include <stdio.h>
 #include <stdint.h>
 
